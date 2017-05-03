@@ -1,0 +1,1 @@
+# config_JPA_EJB_JSF_maven
